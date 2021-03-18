@@ -11,4 +11,4 @@ var cognome = prompt("qual'è il tuo cognome?");
 
 var colorePreferito = prompt("qual'è il tuo colore preferito?");
 
-var password = document.getElementById("password").innerHTML = (nome + cognome + colorePreferito + 21)
+var password = document.getElementById("password").innerHTML = (nome + cognome + colorePreferito + 21);
